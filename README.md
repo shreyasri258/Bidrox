@@ -1,2 +1,2 @@
-# Bidrox
+# Bidrox 
 Responsive NFT Marketplace
