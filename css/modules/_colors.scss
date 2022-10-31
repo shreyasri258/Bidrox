@@ -1,9 +1,11 @@
 $halfwhite: rgba(255, 255, 255, 0.5);
-$white10:rgba(255, 255, 255, 0.1);
-$white: #fff;
-$purple: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
-$lightpurple:#A24BF8;
-$darkblue: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
+
+$white10:linear-gradient(113.49deg,  #0c010f -30.3%,#116466  58.12%);
+
+$white: rgb(190, 157, 157);
+$purple:linear-gradient(113.49deg,  #0c010f -30.3%,#093535  58.12%);
+$lightpurple:#c0e3d3;
+$darkblue: linear-gradient(113.49deg,  #0c010f -30.3%,#116466  58.12%);
 
 .bg-image {
     background-image: url(/img/background.jpg);

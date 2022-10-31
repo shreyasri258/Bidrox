@@ -13,15 +13,15 @@
 }
 
 .bg-white10 {
-  background: rgba(255, 255, 255, 0.1);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
 }
 
 .bg-purple {
-  background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #093535 58.12%);
 }
 
 .bg-darkblue {
-  background: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
 }
 
 .bg-halfwhite {
@@ -33,11 +33,11 @@
 }
 
 .lightpurple {
-  color: #A24BF8;
+  color: #c0e3d3;
 }
 
 .darkblue {
-  color: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
+  color: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
 }
 
 .white {
@@ -102,14 +102,14 @@
   display: flex;
   justify-content: center;
   padding: 1rem 0;
-  background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #093535 58.12%);
   border-radius: 10px;
   margin-top: 2.5rem;
 }
 .card .bid:hover {
   background: transparent;
-  border: 1px solid #A24BF8;
-  color: #A24BF8;
+  border: 1px solid #c0e3d3;
+  color: #c0e3d3;
 }
 .card:hover {
   background: rgba(255, 255, 255, 0.5);
@@ -135,7 +135,7 @@ html {
   scroll-padding-top: 10rem;
   font-size: 10px;
   color: white;
-  background: linear-gradient(113.49deg, #984D38 -30.3%, #181E41 58.12%);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
   font-family: "Poppins", sans-serif;
 }
 
@@ -3340,13 +3340,13 @@ h5 {
 .filter {
   font-size: 1.5rem;
   text-align: center;
-  background: rgba(255, 255, 255, 0.1);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
   padding: 0.5rem 0;
   border-radius: 10px;
   cursor: pointer;
 }
 .filter:hover {
-  background: linear-gradient(214.02deg, #B75CFF 6.04%, #671AE4 92.95%);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #093535 58.12%);
 }
 
 .collect.hide {
@@ -3375,7 +3375,7 @@ h5 {
 }
 
 .started:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
   border: 1px solid white;
 }
 
@@ -3406,7 +3406,7 @@ header .container .menu .search-form {
   display: flex;
   align-items: center;
   border-radius: 10px;
-  background: rgba(255, 255, 255, 0.1);
+  background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
 }
 header .container .menu .search-form input {
   width: 100%;
@@ -3477,7 +3477,7 @@ header .container .menu a:hover {
     top: 99%;
     right: -100%;
     width: 70%;
-    background: rgba(255, 255, 255, 0.1);
+    background: linear-gradient(113.49deg, #0c010f -30.3%, #116466 58.12%);
     height: 100vh;
     z-index: 99;
     display: flex;
@@ -3519,8 +3519,8 @@ header .container .menu a:hover {
 }
 .card-creator .follow:hover {
   background: transparent;
-  border: 1px solid #A24BF8;
-  color: #A24BF8;
+  border: 1px solid #c0e3d3;
+  color: #c0e3d3;
 }
 .card-creator:hover {
   background: rgba(255, 255, 255, 0.5);
